@@ -1,2 +1,7 @@
-# script-for-transparent-part-on-roblox
-.
+script for transparent part on  roblox : 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+local test= script.parent
+
+wait(10)
+test.Transparency=0.44
